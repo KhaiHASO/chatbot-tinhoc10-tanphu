@@ -1,0 +1,16 @@
+# Bảo mật thông tin quan trọng
+.env
+.env.local
+secrets.toml
+.streamlit/secrets.toml
+usage.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Hệ thống
+.DS_Store
+Thumbs.db
